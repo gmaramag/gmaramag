@@ -3,7 +3,7 @@
 <!--
 **gmaramag/gmaramag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on obtaining my B.S. in psychology from Kutztown University of Pennsylvania
 - 🌱 I’m currently learning about child psychology, sensation and perception, and trauma-informed practices
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gmara634@live.kutztown.edu
 - 😄 Pronouns: she/her
 - ⚡ Let's get in touch!
--->
