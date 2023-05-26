@@ -5,7 +5,7 @@
 
 -->
 
-- 🔭 I’m currently working on obtaining my B.S. in psychology from Kutztown University of Pennsylvania
+- 🔭 I obtained my B.S. in psychology from Kutztown University of Pennsylvania
 - 🌱 I’m currently learning about child psychology, sensation and perception, and trauma-informed practices
 - 👯 I’m looking to collaborate with other researchers in clinical and counseling psychology
 - 🤔 I’m thinking about how to build my career in clinical psychology
