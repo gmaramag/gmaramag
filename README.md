@@ -6,10 +6,9 @@
 -->
 
 - 🔭 I obtained my B.S. in psychology from Kutztown University of Pennsylvania
-- 🌱 I’m currently learning about child psychology, sensation and perception, and trauma-informed practices
-- 👯 I’m looking to collaborate with other researchers in clinical and counseling psychology
+- 🌱 I’m currently transitioning in my lab manager role at the MiND and TaD Labs at the University of Michigan
 - 🤔 I’m thinking about how to build my career in clinical psychology
 - 💬 Ask me about music, skin care, and Minecraft builds
-- 📫 How to reach me: gmara634@live.kutztown.edu
+- 📫 How to reach me: gmaramag@umich.edu
 - 😄 Pronouns: she/her
 - ⚡ Let's get in touch!
