@@ -6,7 +6,8 @@
 -->
 
 - 🔭 I obtained my B.S. in psychology from Kutztown University of Pennsylvania
-- 🌱 I’m currently transitioning in my lab manager role at the MiND and TaD Labs at the University of Michigan
+- 🧠 I’m a lab manager in the TaD Lab at the University of Michigan
+- 🌱 I’m also a research assistant in the SEED Lab at Eastern Michigan University
 - 🤔 I’m thinking about how to build my career in clinical psychology
 - 💬 Ask me about music, skin care, and Minecraft builds
 - 📫 How to reach me: gmaramag@umich.edu
