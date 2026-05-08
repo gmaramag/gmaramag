@@ -5,8 +5,7 @@
 
 -->
 
-- 🔭 I obtained my B.S. in psychology from Kutztown University of Pennsylvania
-- 🧠 I’m a lab manager for the SAND Study at the University of Michigan
+- 🧠 I’m an incoming PhD student at Wayne State University
 - 🤔 I’m thinking about how to build my career in psychology and neuroscience
 - 💬 Ask me about music, skin care, and Minecraft builds
 - 📫 How to reach me: gmaramag@wayne.edu
