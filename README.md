@@ -5,7 +5,7 @@
 
 -->
 
-- 🧠 I’m an incoming PhD student at Wayne State University
+- 🧠 I’m a PhD student at Wayne State University
 - 🤔 I’m thinking about how to build my career in psychology and neuroscience
 - 💬 Ask me about music, skin care, and Minecraft builds
 - 📫 How to reach me: gmaramag@wayne.edu
